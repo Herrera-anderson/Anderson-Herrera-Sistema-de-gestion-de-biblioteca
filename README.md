@@ -1,4 +1,4 @@
-# Anderson-Herrera-Sistema-de-gestion-de-bibloteca
+# Anderson-Herrera-Sistema-de-gestion-de-biblioteca
  
 ## 1. Descripción del Caso
 
